@@ -1,0 +1,31 @@
+
+// Descriptive colour variables
+
+$white          	: #fff;
+$black          	: #000;
+$grey           	: #878787;
+$regent-st-blue 	: #0000EE;
+;
+
+// Font stacks
+
+$opensans			: 'Open Sans', sans-serif;
+$varelaround 		: 'Varela Round', sans-serif;
+
+//Border Radius
+
+$br 				: 3px;
+
+//Border Style
+
+$bs					: solid 1px $black;
+
+//Asset paths
+
+$path-img			: '../img';
+
+// Media query breakpoints
+
+$s-width		: 605px;
+$m-width		: 1000px;
+$l-width		: 1300px;
